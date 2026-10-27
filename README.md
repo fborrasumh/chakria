@@ -4,6 +4,8 @@ Del saber ancestral a la práctica validada en tu chakra. Aplicación web de un 
 
 **Usar la app:** https://fborrasumh.github.io/chakria/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23681361.svg)](https://doi.org/10.5281/zenodo.23681361)
+
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Qué hace
@@ -39,7 +41,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. y Silva Cazar, M. C. (2026). *ChakrIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. y Silva Cazar, M. C. (2026). *ChakrIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23681361](https://doi.org/10.5281/zenodo.23681361)
 
 ## Licencia
 
